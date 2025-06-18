@@ -1,8 +1,12 @@
 Hello world!
 
+html 템플릿: ! 입력 후 자동완성
 주석 토글: cmd+/
 줄 위로 올리기: opt+up
 줄 아래로 내리기: opt+down
 기타 단축키
 새로고침: cmd+r
 현재 라인 지우기: cmd+x
+현재 라인 복사: shift+opt+down
+VSCode에서 html 브라우저 바로 띄우기: opt+b (open in browser addon 설치 필요)
+버티컬 커서: shift+opt 누른 상태로 세로 방향 드래그
