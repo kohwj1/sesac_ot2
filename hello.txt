@@ -1,8 +1,4 @@
 Hello world!
 123
 456
-안녕하세욘안녕핫요
-고현민입니다..
-12345t
-안녕하세용
-commit test from GUI
+feature random
