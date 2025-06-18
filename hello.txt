@@ -1,4 +1,8 @@
 Hello world!
-123
-456
 
+주석 토글: cmd+/
+줄 위로 올리기: opt+up
+줄 아래로 내리기: opt+down
+기타 단축키
+새로고침: cmd+r
+현재 라인 지우기: cmd+x
