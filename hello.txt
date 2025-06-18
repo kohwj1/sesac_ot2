@@ -5,4 +5,4 @@ Hello world!
 고현민입니다..
 12345t
 안녕하세용
-123123123
+commit test from GUI
